@@ -3,10 +3,10 @@ This is the code for [Jianqiu Lu](https://github.com/lujq96)'s Undergraduate The
 ## Results
 We use MNIST dataset.
 Accuracy of Block Coordiante Descent training on 1 layer MLP, with structure of 784-800-10, is 
-![Jianqiu LU](https://raw.githubusercontent.com/lujq96/BCDforDNN/4d668195cfc8ebd65db322c58d24f9bd542a0a8f/results/BCDM-1layerAccu.pdf) 
+[BCDM-1layerAccu](https://github.com/lujq96/BCDforDNN/blob/master/results/BCDM-1layerAccu.pdf) 
 while our baseline, backprop with SGD, has a accuracy of
-![Jianqiu LU](https://raw.githubusercontent.com/lujq96/BCDforDNN/4d668195cfc8ebd65db322c58d24f9bd542a0a8f/results/sgd_accu.pdf).
+[sgd_accu](https://github.com/lujq96/BCDforDNN/blob/master/results/sgd_accu.pdf).
 Results on 3 layer MLP is
-![Jianqiu LU](https://raw.githubusercontent.com/lujq96/BCDforDNN/4d668195cfc8ebd65db322c58d24f9bd542a0a8f/results/BCDM-3layerAccu.pdf) 
+[BCDM-3layerAccu](https://github.com/lujq96/BCDforDNN/blob/master/results/BCDM-3layerAccu.pdf) 
 while baseline performance as
-![Jianqiu LU](https://raw.githubusercontent.com/lujq96/BCDforDNN/4d668195cfc8ebd65db322c58d24f9bd542a0a8f/results/fig_accuracy_2.pdf) 
+[Base_accu](https://github.com/lujq96/BCDforDNN/blob/master/results/fig_accuracy_2.pdf) 
